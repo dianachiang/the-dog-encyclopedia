@@ -20,6 +20,7 @@ anaconda
 
 pip install -r requirements.txt
 
+# from github desktop, open the repository in terminal
 # access the app by typing this in the command/terminal
 python app/dog_encyclopedia.py
 
